@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+You can change the state of the outputs by pulling one of the inputs down.
 
 ## How to test
 
-Explain how to use your project
+connect inputs to Vcc via 1k pullup and then short one of the inputs to the ground. The output state should chane
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Need 4 resistors, 2 lEDs and two buttons.
